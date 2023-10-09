@@ -1,1 +1,1 @@
-# assets
+this is a repository that is used for storing my various of assets.
